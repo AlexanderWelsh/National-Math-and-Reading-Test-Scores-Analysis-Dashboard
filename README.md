@@ -9,8 +9,6 @@
 ## Student Demographics
 <img width="1371" height="771" alt="image" src="https://github.com/user-attachments/assets/7593a3c3-e7a0-4bc1-90d6-a378c997f097" />
 
-<img width="1373" height="771" alt="image" src="https://github.com/user-attachments/assets/fe928930-8f55-4bf4-b7b5-9040c307d46d" />
-
 <img width="1373" height="770" alt="image" src="https://github.com/user-attachments/assets/459e2495-56e2-4fac-b530-54bfb683122c" />
 
 <img width="1373" height="770" alt="image" src="https://github.com/user-attachments/assets/48b40270-5da0-46e6-b7ac-4167bbf6100e" />
